@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.d0d91116.css",
-    "main.js": "./static/js/main.6f23768d.js",
-    "index.html": "./index.html",
-    "main.d0d91116.css.map": "./static/css/main.d0d91116.css.map",
-    "main.6f23768d.js.map": "./static/js/main.6f23768d.js.map"
+    "main.css": "/iptv-visor/static/css/main.d0d91116.css",
+    "main.js": "/iptv-visor/static/js/main.fb137b53.js",
+    "index.html": "/iptv-visor/index.html",
+    "main.d0d91116.css.map": "/iptv-visor/static/css/main.d0d91116.css.map",
+    "main.fb137b53.js.map": "/iptv-visor/static/js/main.fb137b53.js.map"
   },
   "entrypoints": [
     "static/css/main.d0d91116.css",
-    "static/js/main.6f23768d.js"
+    "static/js/main.fb137b53.js"
   ]
 }
