@@ -166,16 +166,16 @@ acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
 acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 (Opción 1)
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 (Opción 2)
 acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 (Opción 3)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 (Opción 2)
 acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 (SAT) (Opción 4)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 (SAT) (Opción 3)
 acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png",DAZN 1 -720p
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png",DAZN 2 (Opción 1)
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
