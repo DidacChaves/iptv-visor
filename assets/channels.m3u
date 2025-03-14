@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p (Opción 1)
-acestream://c367738691c63896679e523d4c1c7933729acc7b
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p (Opción 2)
 acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
