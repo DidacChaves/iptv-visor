@@ -1,19 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p (Opción 1)
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p 
+acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p 
 acestream://515efd8115482bda8d92aa6df9a882a5e5797494
 
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p (Opción 2)
-acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p (Opción 3)
-acestream://d8068894248c1f21eea31e538917276a8c49ec06
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 - 1080p
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 (SAT) - 1080p (Opción 4)
-acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",DAZN F1 (SAT) - 1080p
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2022/04/formula_1-logo-brandlogos.net_-512x512.png", ESPN 2 - F1 - 1080p
-acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png",Movistar+
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
